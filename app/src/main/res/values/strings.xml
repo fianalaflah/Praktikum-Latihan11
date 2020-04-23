@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Praktikum11</string>
+    <string name="imagename">imagename</string>
+    <string name="judul">judul</string>
+    <string name="link">link</string>
+    <string name="todo">TODO</string>
+    <string name="textview">TextView</string>
+    <string name="url">URL</string>
+
+</resources>
